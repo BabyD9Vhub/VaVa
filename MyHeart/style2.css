@@ -309,20 +309,21 @@ body{
 .title-image h1{
     width: 200px;
     color: #fff;
-    font-size: 25px;
-    margin-left: -345px;
-    margin-top:160px;
-    white-space: none
-    ;
+    font-size: 20px;
+    margin-left: -300px;
+    margin-top:150px;
+    white-space: none;
 }
 .cover-title{
+    margin-top: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 20px;
 }
 .cover-title p {
-    padding: 10px;
+   
+    padding: 5px;
 }
 .title-image{
     display: flex;
