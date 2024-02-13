@@ -397,10 +397,10 @@ body{
 .pic{
     width: 100%;
     height: 100%;
-    display: center;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    padding: 20px;
     
 }
 .pic img{
